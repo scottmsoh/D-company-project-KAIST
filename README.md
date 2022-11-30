@@ -19,7 +19,8 @@
     * Which is the most efficient marketing channel?
      
         **→ Mainly use Facebook marketing, which calculates customer acquisition cost (CAC) and customer lifetime value (LTV) per channel, and then sorts the LTV/CAC ratio in order of most efficient marketing channels**
-        **→ Create new marketing channels and content by focusing your budget on this channel or analyzing why it works well**
+       
+       **→ Create new marketing channels and content by focusing your budget on this channel or analyzing why it works well**
 
     * What is the change in sales?
       
